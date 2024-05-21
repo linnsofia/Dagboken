@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En transkription av delar ur Umeå Lottaskårs handskrivna tjänstgöringsdagbok 1939-1945</title>
+         <respStmt>
+            <name>XX XX XX XX XX</name>
+            <resp>Transcription by .....</resp>
+         </respStmt>
+         </titleStmt>
+         
+         <publicationStmt>
+            <p>Publication Information?? Inom ramen för kursen ... ? Transkription av handskriven tjänstgöringsdagbok utförd av Sofia/XX </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source: Handskriven tjänstgöringsdagbok från Umeå Lottakår tillhandahållen via Folkrörelsearkivet i Västerbotten</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>
+            Sänginsamling Till Beredskapssjukhus 8 okt-nov. 1939
+         </head>
+         <p>På uppdrag av Doktor Ekwall införskaffades lottorna - genom husbesök i staden och dess omgivningar under 
+            Tiden 25 okt-15 nov 1939 - uppgifter om möjligheter att ur privat ägo erhålla sängar och sängutstyrsel för eventuellt
+            upprättande av ett beredskapssjukhus i Umeå. 
+            <lb/>Staden?? indelades i olika områden, av vilka varje grupp fick åtaga sig en eller fler.
+            
+         </p>
+      </body>
+  </text>
+</TEI>
